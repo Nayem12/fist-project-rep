@@ -1,10 +1,40 @@
-body{
+body {
     font-family: 'Kantumruy Pro', sans-serif;
 
 }
-h1{
+
+h1 {
     font-size: 48px;
 }
-.ip{
+
+.ip {
     color: orange;
+}
+
+.open-color {
+    color: orange;
+}
+
+section {
+    display: flex;
+}
+
+.fist-half {
+    width: 50%;
+    padding-left: 5%;
+    margin: 10px;
+    margin-bottom: 20px;
+}
+
+.img-1 {
+    width: 80%;
+}
+
+.link {
+    text-decoration: none;
+    background-image: radial-gradient(tomato, orange);
+    color: white;
+    padding: 8px 12px;
+    font-weight: 700px;
+    border-radius: 7px;
 }
