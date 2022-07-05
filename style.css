@@ -18,6 +18,7 @@ h1 {
 
 section {
     display: flex;
+    margin-bottom: 130px;
 }
 
 .fist-half {
@@ -64,4 +65,12 @@ section {
     padding: 8px 12px;
     font-weight: 700px;
     border-radius: 7px;
+}
+
+.bottom-banner {
+    background-image: url(images/dream-bg.png);
+    background-repeat: no-repeat;
+    background-position: right;
+    background-size: 90px;
+
 }
